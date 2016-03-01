@@ -1,0 +1,18 @@
+{
+  "name": "interviewLottery",
+  "description": "The lottery for interview",
+  "version": "0.0.1",
+  "keywords": [
+    "interview",
+    "lottery"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "shuffle-array": "^0.1.2"
+  }
+}
