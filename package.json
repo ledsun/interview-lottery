@@ -2,17 +2,27 @@
   "name": "interviewLottery",
   "description": "The lottery for interview",
   "version": "0.0.1",
+  "author": "shigeru.nakajima@gmail.com",
+  "bugs": {
+    "url": "https://github.com/ledsun/interview-lottery/issues"
+  },
+  "dependencies": {
+    "shuffle-array": "^0.1.2"
+  },
+  "homepage": "https://github.com/ledsun/interview-lottery",
   "keywords": [
     "interview",
     "lottery"
   ],
   "license": "MIT",
   "main": "index.js",
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ledsun/interview-lottery.git"
+  },
   "scripts": {
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "shuffle-array": "^0.1.2"
   }
 }
