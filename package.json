@@ -7,7 +7,7 @@
     "url": "https://github.com/ledsun/interview-lottery/issues"
   },
   "dependencies": {
-    "shuffle-array": "^0.1.2"
+    "shuffle-array": "^1.0.0"
   },
   "homepage": "https://github.com/ledsun/interview-lottery",
   "keywords": [
