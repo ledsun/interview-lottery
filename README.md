@@ -139,3 +139,8 @@ No duplicated combination during last 5 months
 ```
 
 # Convert
+doneListを以前の形式から変換するには
+
+```
+node convert-data.js
+```
